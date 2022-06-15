@@ -1,0 +1,40 @@
+body {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+background-color: lightblue;
+
+
+}
+div{
+    
+ 
+background-color: white;
+border-radius: 20px;
+
+
+
+
+}
+
+img {
+    transform: scale(50%);
+    border-radius: 25px;
+   
+
+    
+}
+.first{
+   margin-top: -140px;
+    line-height: 15px;
+    font-family: Poppins;
+}
+.next
+{
+    font-family: Poppins;
+    color:grey;
+    line-height: 10px;
+}
